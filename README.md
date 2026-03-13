@@ -1,4 +1,4 @@
-#Git Homework
+## Git Homework
 This repo contains my solution for the Git homework.  
 
 ## Steps I Did
